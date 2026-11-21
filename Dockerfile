@@ -1,4 +1,4 @@
-From ubuntu
+From hshar/webapp
 Run apt update
 Run apt install apache2 -y
 Copy . /var/www/html
